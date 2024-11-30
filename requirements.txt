@@ -1,0 +1,18 @@
+python-dotenv
+
+marshmallow==3.18.0
+
+numpy
+tqdm
+rich
+
+unstructured # NEEDED FOR DIRECTORYLOADER
+
+ollama
+pinecone[grpc]
+langgraph
+langchain
+langchain-pinecone
+langchain-community
+langchain-ollama
+langchain-text-splitters
